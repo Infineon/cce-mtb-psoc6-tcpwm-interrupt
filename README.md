@@ -1,4 +1,4 @@
-# PSoC&trade; 6 MCU: Interrupt TCPWM
+# PSoC&trade; 6 MCU Interrupt TCPWM
 
 *Disclaimer: This is a community code example (CCE) released for the benefit of the community users. These projects have only been tested for the listed BSPs, tools versions, and toolchains documented in this readme. They are intended to demonstrate how a solution / concept / use-case can be achieved on a particular device. For official code examples, please click [here](https://github.com/Infineon/Code-Examples-for-ModusToolbox-Software).*
 
